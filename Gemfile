@@ -7,6 +7,7 @@ gem 'coffee-rails',     '~> 4.0.0'
 gem 'pg'
 gem 'jquery-rails',     '~> 3.0.0'
 gem 'grape'
+gem 'grape-swagger'
 gem 'uglifier',         '>= 1.0.3'
 gem 'zip-zip',          '~> 0.2'
 
